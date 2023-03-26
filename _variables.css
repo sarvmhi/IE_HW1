@@ -1,0 +1,24 @@
+:root {
+  /* fonts */
+  --paragraph-progress-15: Inter;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-sm: 0.63rem;
+  --paragraph-progress-15-size: 0.94rem;
+  --h6-16-size: 1rem;
+  --h4-18-size: 1.13rem;
+  --h2-32-size: 2rem;
+
+  /* Colors */
+  --background: #f0f0f6;
+  --yellow: #ffb400;
+  --white-font: #fafafa;
+  --paragraph-font: #767676;
+  --black: #2b2b2b;
+  --white: #fff;
+  --available: #7eb942;
+
+  /* border radiuses */
+  --br-md: 1px;
+}
