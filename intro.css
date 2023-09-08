@@ -1,0 +1,112 @@
+
+.home-one-page-light {
+    background-color: var(--background);
+    width: 1326px;
+    height: 3099px;
+    
+    overflow: hidden;
+
+    font-size: var(--paragraph-progress-15-size);
+    color: var(--paragraph-font);
+    font-family: var(--paragraph-progress-15);
+  }
+
+  .main-menu {
+    width: 970px;
+    height: 532px;
+    left: 335px;
+    top: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    color: var(--black);
+  }
+  
+  .background-image {
+    
+  
+    justify-content: center;
+    /**width: 90%; /* adjust to 90% of parent container */
+   /** max-width: 970px; /* set max-width to 970px */
+   /** height: auto; /* adjust height to fit content */
+   /** margin: 0 auto; /* center the element horizontally */
+    background-color: var(--white);
+  }
+  
+  .im-rayan-adlrdard-container {
+    margin: 5vw auto; /* adjust margin to 5% of viewport width */
+    text-align: justify;
+    /**width: 80%; /* adjust to 80% of parent container */
+    max-width: 500px; /* set max-width to 500px */
+    height: 20%; /* adjust height to fit content */
+    font-size: 3vw; /* adjust font-size to 5% of viewport width */
+    display: flex;
+    line-height: 123.6%;
+    flex-direction: column; /* stack the two child elements vertically */
+   /** justify-content: center; /* center the child elements vertically */
+  }
+  
+  .im-rayan-adlrdard {
+    margin: 0;
+
+  }
+  
+  .font-end-developer1 {
+    margin: 0;
+  }
+  
+  .font-end {
+    color: var(--yellow);
+  }
+  
+  .main-menu-child {
+    flex-basis: 10%; /* set the initial size of the element */
+    height: auto; /* adjust height to fit content */
+    margin: 1rem; /* add some margin around the element */
+  }
+
+  .lorem-ipsum-dolor7 {
+
+    line-height: 1.5rem;
+    margin-top: 5%;
+    text-transform: capitalize;
+    color: var(--paragraph-font);
+    display: inline-block;
+    height: 60%;
+  }
+  
+  .ellipse-icon,
+  .main-menu-child,
+  .main-menu-inner,
+  .main-menu-item {
+    width: 1rem;
+    height: 1.14rem;
+  }
+  
+  .main-menu-item {
+    flex-basis: 30%; /* set the initial size of the element */
+    height: auto; /* adjust height to fit content */
+    margin: 1rem; /* add some margin around the element */
+  }
+  
+  .main-menu-inner {
+    flex-grow: 1; /* allow the element to grow to fill the remaining space */
+    height: auto; /* adjust height to fit content */
+    margin: 1rem; /* add some margin around the element */
+  }
+  
+  .ellipse-icon {
+    height: auto; /* adjust height to fit content */
+    margin: 1rem; /* add some margin around the element */
+  }
+  
+  .main-menu-child1,
+  .main-menu-child2 {
+    flex-basis: 5%; /* set the initial size of the element */
+    height: auto; /* adjust height to fit content */
+    margin: 1rem; /* add some margin around the element */
+    border: 2px solid rgba(255, 180, 0, 0.8);
+    box-sizing: border-box;
+    transform: rotate(29.11deg);
+  }  
+
+ 
